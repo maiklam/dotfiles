@@ -1,10 +1,10 @@
-  1 [user]
-  2   name = Mai Lam
-  3   email = 
-  4 [alias]
-  5   co = checkout
-  6   br = branch
-  7   ci = commit
-  8   st = status
-  9   pr = pull --rebase
- 10   log1 = log --oneline
+[user]
+  name = Mai Lam
+  email = 
+[alias]
+  co = checkout
+  br = branch
+  ci = commit
+  st = status
+  pr = pull --rebase
+  log1 = log --oneline
