@@ -7,7 +7,9 @@
 
 2. Choose a framework: [bash-it](https://github.com/Bash-it/bash-it), [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-3. Install Spaceship Promt: https://github.com/denysdovhan/spaceship-prompt
+3. Install Homebrew: https://brew.sh/
+
+4. Install Spaceship Promt: https://github.com/denysdovhan/spaceship-prompt
 
 ```sh
 # Clone the repository:
@@ -19,10 +21,10 @@ $ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/t
 # Set ZSH_THEME="spaceship" in .zshrc
 ```
 
-4. Install Nerd Font:
+5. Install Nerd Font:
 https://github.com/ryanoasis/nerd-fonts#option-4-homebrew-fonts
 
-5. Customise zsh command prompt:
+6. Customise zsh command prompt:
 
 ```sh
 ZSH_THEME="spaceship"
