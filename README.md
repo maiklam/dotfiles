@@ -43,3 +43,15 @@ SPACESHIP_USER_SHOW="true"
 * https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7
 * https://github.com/unixorn/awesome-zsh-plugins
 
+----
+
+### More fun and colorful terminal
+
+```
+$ brew install cowsay
+$ brew install lolcat
+$ brew install fortune
+
+$ fortune | cowsay | lolcat
+```
+
